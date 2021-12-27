@@ -1,1 +1,3 @@
-# Auction_Serverless_Webapp
+# Auction Serverless Webapp
+
+Implementing CRUD ops for Auction using 
